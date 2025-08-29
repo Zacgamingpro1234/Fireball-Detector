@@ -2,7 +2,7 @@
   {
     "modid": "${id}",
     "name": "${name}",
-    "description": "",
+    "description": "Detect Fireballs before that can hit you!",
     "version": "${version}",
     "mcversion": "${mcVersionStr}",
     "url": "https://modrinth.com/mod/fireball-detector",
@@ -11,7 +11,7 @@
       "Zacgamingpro1234"
     ],
     "credits": "",
-    "logoFile": "",
+    "logoFile": "Assets/logo.png",
     "screenshots": [],
     "dependencies": []
   }
